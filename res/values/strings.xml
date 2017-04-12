@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SmartControl</string>
+    <string name="hello_world">欢迎使用远程LED控制系统</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
